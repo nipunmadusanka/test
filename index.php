@@ -1,36 +1,4 @@
-Skip to content
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@nipunmadusanka 
-tomershvueli
-/
-homepage
-11
-23426
-Code
-Issues
-2
-Pull requests
-1
-Actions
-Projects
-Wiki
-Security
-Insights
-homepage/src/index.php /
-@tomershvueli
-tomershvueli Moved homepage site and assets to /src, added show_menu_on_page_load …
-…
-Latest commit 9b0034c on Jun 25, 2020
- History
- 1 contributor
-Executable File  80 lines (66 sloc)  3.23 KB
-  
 <?php
   /**
   * homepage
@@ -111,16 +79,4 @@ Executable File  80 lines (66 sloc)  3.23 KB
     <script type="text/javascript" src="hp_assets/js/main.js"></script>
   </body>
 </html>
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
 
