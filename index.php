@@ -3,13 +3,7 @@
 <head>
 
      <title>Nipun Madusanka</title>
-<!--
 
-DIGITAL TREND
-
-https://templatemo.com/tm-538-digital-trend
-
--->
      <meta charset="UTF-8">
      <meta http-equiv="X-UA-Compatible" content="IE=Edge">
      <meta name="description" content="">
@@ -32,7 +26,7 @@ https://templatemo.com/tm-538-digital-trend
      <!-- MENU BAR -->
     <nav class="navbar navbar-expand-lg">
         <div class="container">
-            <a class="navbar-brand" href="index.html">
+            <a class="navbar-brand" href="#">
               <i class="fa fas fa-user"></i>
              nipun madusanka
             </a>
