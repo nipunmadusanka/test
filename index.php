@@ -201,7 +201,7 @@ You can also identify me as an advocate against injustice. I am a Sri Lankan who
 
                         <span class="mx-1">/</span>
 
-                        <small><a href="http://ideacloud.webnode.com/">IdeaCloud</a></small>
+                        <small><a href="http://ideacloud.webnode.com/" target="_blank">IdeaCloud</a></small>
                       </p>
                     </div>
 
