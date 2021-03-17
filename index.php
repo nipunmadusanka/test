@@ -197,7 +197,7 @@ You can also identify me as an advocate against injustice. I am a Sri Lankan who
                       <h2 class="mb-4" data-aos="fade-up" data-aos-delay="300">I am currently studying for a degree in Software Engineering at Southeastern University.<br> I started IdeaCloud and was also its CEO.</h2>
 
                       <p data-aos="fade-up" data-aos-delay="400">
-                        <strong>nipun madusanka   (CEO)</strong>
+                        <strong>nipun madusanka </strong>
 
                         <span class="mx-1">/</span>
 
