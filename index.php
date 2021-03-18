@@ -94,7 +94,7 @@
 
                               <h2 class="mb-4" data-aos="fade-up"><strong>About Me</strong></h2>
 
-                              <p class="mb-0" data-aos="fade-up">I am a designer, software developer, illustrator, web designer, and lifelong student. I am an optimist. I am an environmentalist.
+                              <p class="mb-0" data-aos="fade-up">I am a designer, developer, web designer and lifelong student. I am an optimist. I am an environmentalist.
 You can also identify me as an advocate against injustice. I am a Sri Lankan who wants to see every part of the world. Gathering as much experience as possible in a lifetime is one of my hopes and makes reading a hobby. The most precious thing in my life is the freedom I get. I will always travel in search of freedom.</p>
                          </div>
 
