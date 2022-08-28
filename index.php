@@ -28,7 +28,7 @@
         <div class="container">
             <a class="navbar-brand" href="#">
               <i class="fa fas fa-user"></i>
-             nipun madusanka
+             nipun madhusankha
             </a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
